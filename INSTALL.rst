@@ -15,7 +15,7 @@ Prepare your AWS account and HOST to deploy application.
 -----------------
 
     - create AWS account
-    - Loggin with AWS account created
+    - Login with AWS account created
     - create IAM user
     - set full permissions (fullAccess) to IAM user created
     - generate credentals to IAM user
